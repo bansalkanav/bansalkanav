@@ -10,6 +10,6 @@
 - 🔭 I’m currently working on democratizing AI
 - 💬 Ask me about Artificial Intelligence and Programming
 
-[![Kanav's github stats](https://github-readme-stats.vercel.app/api?username=bansalkanav&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Kanav's github stats](https://github-readme-stats.vercel.app/api?username=bansalkanav&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/bansalkanav?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansalkanav)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansalkanav)](https://github.com/bansalkanav?tab=repositories)
