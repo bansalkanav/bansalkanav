@@ -1,7 +1,7 @@
 ### Hi there. I'm Kanav 👋
 
 - :zap: I love math and programming
-- 🌱 I’m addicted to learning and growing every day
+- 🌱 I’m addicted to learn and grow every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs and open source communities
 - 📫 How to find me: 
   - :bulb: [Discord Community](https://discord.gg/TtMT4AW)
