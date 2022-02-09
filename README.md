@@ -6,7 +6,7 @@
 - 📫 How to find me: 
   - :bulb: [Discord Community](https://discord.gg/TtMT4AW)
   - :office: [LinkedIn](https://www.linkedin.com/in/kanavbansal/)
-  - :speaker: [Youtube](https://www.youtube.com/channel/UCIUfGgjNYHS-U547JUs2_eQ)
+  - :speaker: [Youtube](https://www.youtube.com/c/thataiguy)
 - 🔭 I’m currently working on democratizing AI
 - 💬 Ask me about Artificial Intelligence and Programming
 
