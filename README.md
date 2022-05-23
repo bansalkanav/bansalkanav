@@ -13,3 +13,5 @@
 [![Kanav's github stats](https://github-readme-stats.vercel.app/api?username=bansalkanav&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/bansalkanav?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansalkanav)](https://github.com/bansalkanav?tab=repositories)
+
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
